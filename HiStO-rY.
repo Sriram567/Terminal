@@ -1,0 +1,20 @@
+overkill
+ls
+ps
+watch
+ls
+cd .. | ls
+cd
+vim 
+ps
+jobs
+kjob 1 9
+ps
+watch 1 5
+ps
+jobs
+kill -9 11677
+ps
+overkill
+overkill'
+clear

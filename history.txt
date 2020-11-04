@@ -1,0 +1,20 @@
+wc
+wc
+grep "cd"
+python3
+fjhakjsdfld
+ls
+ps
+./ttt &
+vim 2.c
+kjob 1 9
+clear
+cat dasdf
+diff 1.c 2.c
+clear
+ls
+ls
+diff 3.txt 4.txt
+cat 3.txt
+vi 4.txt
+diff 3.txt 4.txt
